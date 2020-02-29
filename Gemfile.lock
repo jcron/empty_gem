@@ -26,7 +26,7 @@ GEM
     gherkin (2.11.5-x86-mingw32)
       json (>= 1.4.6)
     json (2.2.0)
-    rake (10.0.3)
+    rake (13.0.1)
     rspec (2.12.0)
       rspec-core (~> 2.12.0)
       rspec-expectations (~> 2.12.0)
